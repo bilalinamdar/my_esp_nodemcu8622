@@ -3,6 +3,6 @@
   "deviceName": "ESP8266_Device",
   "updateInterval": 10,
   "configVersion": "1.0.0",
-  "ledState": "ON"
+  "ledState": "OFF"
   
 }
